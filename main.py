@@ -2,7 +2,7 @@
 # Prophet is a price forecasting tool that renders the model of an asset with its predicted price.
 # The program uses open-source libraries and can be called directly from the command line.
 
-# libraries needed for the model
+# libraries needed for the model 
 import argparse
 import yfinance as yf
 from prophet import Prophet
